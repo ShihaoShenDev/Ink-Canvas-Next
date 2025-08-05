@@ -1,7 +1,6 @@
 <div align=center>
 
   # Ink Canvas Next
-  *An InkNext Project*
   
   **下一代墨迹解决方案** 
 

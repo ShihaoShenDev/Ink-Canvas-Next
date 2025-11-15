@@ -28,8 +28,6 @@
 
 - **板书美化功能，启发自[希沃白板及希沃 AI 授课助手](https://help.seewo.com/easiscreenpercep/ztLYSSMS7r)** <!--希沃白板能做到，我就不相信原生WPF做不到-->
 
-<!--FuckDotNET FuckWPF FuckWinUI FuckMicrosoft FuckCSharp FuckSTCN-->
-
 - ……
 ## 开发计划
 
